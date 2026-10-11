@@ -1,0 +1,6 @@
+{
+  "name": "VeriStore TrustGuard - Online Store Authenticity & Anti-Phishing Shield",
+  "description": "Real-time e-commerce legitimacy verification, social media audit, cross-referenced review intelligence, and instant browser anti-phishing protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
